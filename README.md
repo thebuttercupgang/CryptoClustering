@@ -1,7 +1,7 @@
 # CryptoClustering
 Module 19 Challenge due 08/19/2024
 
-## Languages Use
+## Languages Used
 - Python
 ## Libraries Used
 - Pandas, hvplot, sklearn
